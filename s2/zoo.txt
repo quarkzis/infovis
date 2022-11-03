@@ -1,0 +1,13 @@
+in 2010 alone we will generate 1,200 exabytes—60 million times the content of the Library of Congress
+you don't go to the zoo to see Chihuahuas and raccoons; you go to admire the majestic polar bear, the graceful zebra, and the terrifying Sumatran tiger.
+visualizations share a common "DNA"—a set of mappings between data properties and visual attributes such as position, size, shape, and color
+Analysts often want to fit their data to statistical models, either to test hypotheses or predict future values, but an improper choice of model can lead to faulty predictions.
+Parallel Coordinates
+Each poly-line represents a single row in the database, and line crossings between dimensions often indicate inverse correlation.
+Enclosure Diagrams
+by packing circles instead of subdividing rectangles, we can produce a different sort of enclosure diagram that has an almost organic appearance.
+Networks
+node-link diagrams are also used to visualize networks, but the loss of hierarchy means a different algorithm is required to position nodes
+Arc Diagrams
+with a good ordering of nodes it is easy to identify cliques and bridges.
+bioinformatics and text visualization are driving researchers and designers to continually formulate new and creative representations or find more powerful ways to apply the classics.
