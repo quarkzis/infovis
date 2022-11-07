@@ -7,5 +7,5 @@
 * [Tableau](https://quarkzis.github.io/infovis/s2/tableau.html)
   1. [Beeswarm](https://quarkzis.github.io/infovis/s2/beeswarm.html)
   2. [Sunburst](https://quarkzis.github.io/infovis/s2/sunburst.html)
-* [Vega Lite](https://quarkzis.github.io/infovis/s2/vega lite.html)
+* [Vega Lite](https://quarkzis.github.io/infovis/s2/vegalite.html)
 
