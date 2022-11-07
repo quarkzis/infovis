@@ -5,6 +5,7 @@
 #### Source: [OpenSecrets](https://www.opensecrets.org/members-of-congress/members-list)
 
 * [Tableau](https://quarkzis.github.io/infovis/s2/tableau.html)
+* Flourish:
   1. [Beeswarm](https://quarkzis.github.io/infovis/s2/beeswarm.html)
   2. [Sunburst](https://quarkzis.github.io/infovis/s2/sunburst.html)
 * [Vega Lite](https://quarkzis.github.io/infovis/s2/vegalite.html)
