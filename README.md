@@ -4,5 +4,6 @@
 
 ### Noviembre 2022
 
-* [Tableau](https://quarkzis.github.io/infovis/s1/tableau.html)
-* [Tableau](https://quarkzis.github.io/infovis/s1/tableau.html)
+#### Infovis
+* [Semana 1](https://quarkzis.github.io/infovis/s1/)
+* [Semana 2](https://quarkzis.github.io/infovis/s2/)
