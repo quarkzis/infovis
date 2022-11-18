@@ -7,4 +7,4 @@
 * [Semana 1](https://quarkzis.github.io/infovis/s1/)
 * [Semana 2](https://quarkzis.github.io/infovis/s2/)
 * [Semana 3](https://quarkzis.github.io/infovis/s3/)
-* [Semana 4](https://quarkzis.github.io/infovis/s4/)
+* [Semana 4](https://quarkzis.github.io/infovis/s4/AirbnbDashboard.html)
